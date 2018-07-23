@@ -5,9 +5,13 @@ name = "pypi"
 
 [packages]
 libvirt-python = "*"
+flask = "*"
+flask-wtf = "*"
+flask-bootstrap = "*"
 
 [dev-packages]
 pylint = "*"
+rope = "*"
 
 [requires]
 python_version = "3.7"
